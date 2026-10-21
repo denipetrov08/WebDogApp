@@ -20,11 +20,10 @@ namespace WebDogApp.Infrastructure.Data.Domain
 
         [Required]
         public int BreedId { get; set; }
-
         public virtual Breed Breed { get; set; } = null!;
 
         public string Picture { get; set; } = null!;
 
-        public virtual IEnumerable<Order> Orders { get; set; } = new List<Order>();
+        
     }
 }

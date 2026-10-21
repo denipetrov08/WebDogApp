@@ -1,0 +1,34 @@
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.deps.json
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.runtimeconfig.json
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.dll
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.pdb
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.dll
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.pdb
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.AssemblyReference.cache
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfoInputs.cache
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfo.cs
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.CoreCompileInputs.cache
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogAp.11F7FA45.Up2Date
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.dll
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\refint\WebDogApp.Core.dll
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.pdb
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.genruntimeconfig.cache
+E:\_UROCI_2022_2023\12Б Интернет програмиране\05_ASP\_ASP_Учебна практика\02.Изложба на кучета_new\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\ref\WebDogApp.Core.dll
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.dll
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\refint\WebDogApp.Core.dll
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.pdb
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.deps.json
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.runtimeconfig.json
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.dll
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Core.pdb
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.dll
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\bin\Debug\net8.0\WebDogApp.Infrastructure.pdb
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogAp.11F7FA45.Up2Date
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\WebDogApp.Core.genruntimeconfig.cache
+C:\Users\User\Downloads\01.0.WebDogApp- DB\01.0.WebDogApp- DB\WebDogApp\WebDogApp.Core\obj\Debug\net8.0\ref\WebDogApp.Core.dll

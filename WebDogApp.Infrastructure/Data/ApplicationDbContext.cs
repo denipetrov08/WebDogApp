@@ -11,11 +11,9 @@ namespace WebDogApp.Infrastructure.Data
         {
             this.Database.EnsureCreated();
         }
-
         public DbSet<Dog> Dogs { get; set; }
 
         public DbSet<Breed> Breeds { get; set; }
 
-        public DbSet<Order> Orders { get; set; }
     }
 }
